@@ -1,7 +1,6 @@
 # device_xiaomi_sapphire-recovery
 
-Device tree for Xiaomi `bengal` (sm6225-AD) devices
-- Xiaomi Redmi Note _13_ 4G (codenamed `sapphire` / `sapphiren`) (January 2024)
+Xiaomi Redmi Note _13_ 4G (codenamed `sapphire` / `sapphiren`) (January 2024)
 
 ## Device specifications
 
